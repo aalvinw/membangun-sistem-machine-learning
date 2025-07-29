@@ -1,0 +1,7 @@
+https://github.com/aalvinw/SMSML_AgustinusAlvinWicaksono/tree/main/Workflow-CI/MLProject
+
+
+https://github.com/aalvinw/SMSML_AgustinusAlvinWicaksono/tree/main/.github/workflows
+
+tautan dockerhub:
+https://hub.docker.com/repository/docker/vynx/shipping-predictor/general

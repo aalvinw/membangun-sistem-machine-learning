@@ -1,0 +1,25 @@
+{
+  "instances": [
+    {
+      "Customer_care_calls": 4,
+      "Customer_rating": 3,
+      "Cost_of_the_Product": 150.0,
+      "Prior_purchases": 3,
+      "Discount_offered": 10.5,
+      "Weight_in_gms": 1800.0,
+      "Warehouse_block_A": false,
+      "Warehouse_block_B": true,
+      "Warehouse_block_C": false,
+      "Warehouse_block_D": false,
+      "Warehouse_block_F": false,
+      "Mode_of_Shipment_Flight": false,
+      "Mode_of_Shipment_Road": true,
+      "Mode_of_Shipment_Ship": false,
+      "Product_importance_high": false,
+      "Product_importance_low": true,
+      "Product_importance_medium": false,
+      "Gender_F": false,
+      "Gender_M": true
+    }
+  ]
+}
